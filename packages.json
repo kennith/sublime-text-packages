@@ -4,15 +4,27 @@
 	"packages": [
 		{
 			"name": "Auto Color Scheme",
-			"description": "Auto color scheme",
+			"description": "Automatically change SublimeText color scheme according to the OS theme.",
 			"details": "https://github.com/kennith/auto-color-scheme",
 			"homepage": "https://github.com/kennith/auto-color-scheme",
 			"issues": "https://github.com/kennith/auto-color-scheme/issues",
-			"author:": "kennith",
+			"author:": "Kennith Leung",
 			"labels": ["color scheme"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=3000",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Eleven color scheme",
+			"description": "A color scheme based and modified from Dayle Rees Rainglow's Hub.",
+			"details": "https://github.com/builtbyeleven/eleven-sublime-theme",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
