@@ -1,0 +1,22 @@
+{
+	"schema_version": "3.0.0",
+
+	"packages": [
+		{
+			"name": "Auto Color Scheme",
+			"description": "Auto color scheme",
+			"details": "https://github.com/kennith/auto-color-scheme",
+			"homepage": "https://github.com/kennith/auto-color-scheme",
+			"issues": "https://github.com/kennith/auto-color-scheme/issues",
+			"author:": "kennith",
+			"labels": ["color scheme"],
+			"platforms": ["osx"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		}
+	]
+}
