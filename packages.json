@@ -10,7 +10,6 @@
 			"issues": "https://github.com/kennith/auto-color-scheme/issues",
 			"author:": "kennith",
 			"labels": ["color scheme"],
-			"platforms": ["osx"],
 			"releases": [
 				{
 					"sublime_text": "*",
